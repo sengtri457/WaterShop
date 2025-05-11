@@ -136,7 +136,7 @@ i:hover {
 }
 
 .nav.responsive {
-  transform: translateX(-10px);
+  transform: translateX(0);
   opacity: 1;
 }
 
